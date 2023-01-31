@@ -1,5 +1,5 @@
 .logo {
-    font-family: 'Montserrat';
+    font-family: Montserrat;
     font-style: normal;
     font-weight: 700;
     font-size: 30px;
@@ -14,7 +14,9 @@
     color:#A3DC00;
 }
 .main-title{
-font-family: 'Ramaraja';
+    max-width: 495;
+    width: 100%;
+font-family: Ramaraja;
 font-style: normal;
 font-weight: 400;
 font-size: 72px;
