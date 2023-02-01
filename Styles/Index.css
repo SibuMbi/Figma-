@@ -66,6 +66,12 @@ section {
     color: #FFFFFF;
 }
 
+img {
+    max-width: 656px;
+    width: 100%;
+    margin-left: 10px;
+}
+
 
 
  
