@@ -1,5 +1,5 @@
 .logo {
-    font-family: Montserrat;
+    font-family: 'Montserrat', sans-serif;
     font-style: normal;
     font-weight: 700;
     font-size: 30px;
@@ -13,16 +13,62 @@
 .logo-dot {
     color:#A3DC00;
 }
-.main-title{
+section {
+    display: inline-block;
+} 
+.main-title {
     max-width: 495;
     width: 100%;
-font-family: Ramaraja;
-font-style: normal;
-font-weight: 400;
-font-size: 72px;
-line-height: 76px;
-/* or 106% */
-letter-spacing: 0.02em;
-color: #1B0A42;
+    margin-top: 203px;
+    margin-left: 200px;
+    font-family: 'Ramaraja', serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 72px;
+    line-height: 76px;
+    /* or 106% */
+    letter-spacing: 0.02em;
+    color: #1B0A42;
+    
+    position: absolute;
+    width: 495px;
+    height: 152px;
+    left: 200px;
+    top: 280.71px;
 
 }
+
+.main-info {
+    max-width: 503px;
+    width: 100px;
+    margin-top: 10px;
+    margin-left: 200px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    /* or 160% */
+    letter-spacing: 0.02em;
+    color: #9A9A9A;
+
+}
+
+.main-btn {
+    width: 152px;
+    height: 64px;
+    background-color: #A3DC00;
+    border-radius: 6px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 32px;
+    /* or 200% */
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+
+}
+
+
